@@ -1,0 +1,22 @@
+{
+  "name": "dbots-me",
+  "version": "1.0.0",
+  "description": "Node API wrapper for dbots.me",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbots-me/node-sdk.git"
+  },
+  "author": "dbots.me <info@dbots.me>, Andreas Fink <andreas@andreasfink.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbots-me/node-sdk/issues"
+  },
+  "homepage": "https://github.com/dbots-me/node-sdk#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
